@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## 预览效果
+
+https://fengfan0409.github.io/jianli-show/
+
 ## Build Setup
 
 ``` bash
